@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @witzbeck
 - 👀 I’m interested in data science!
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on machine learning projects!
+- 🌱 I’m currently learning Bayesian modeling
 - 📫 How to reach me: https://www.linkedin.com/in/alexandermbeckwith/
 
 <!---
